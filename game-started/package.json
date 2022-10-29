@@ -11,7 +11,7 @@
     "lint:check": "eslint --ignore-path ./.gitignore --quiet \"./**/*.{js,ts}\"",
     "test": "jest"
   },
-  "author": "Brian Holt <btholt+foxgame@gmail.com>",
+  "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
     "eslint": "^6.8.0",
