@@ -1,6 +1,6 @@
 # Tamagotchi-liitle-foxy-game
 Do you remember those virtual pet toys from the 90s? They were the bane of every poor teacher and parent's existance. They're essentially needy little virutal pets that need you to feed and clean up their poops every few hours.
-![game pic with little fox](HEY.jpg)
+![game pic with little fox](HEY.png)
 <h1>Requirements</h1>
 
 The game starts in an initialized state. The user must press the center game to get started.
