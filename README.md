@@ -52,23 +52,6 @@ responsiblity and you can just assume a fixed desktop browser size.
 
 Phew. That's a lot of requirements!
 
-Technical Requirements
-There are none, lol.
 
-You can implement this however you see fit.
-
-I will be writing this in straight, vanilla JavaScript. This is for several reasons:
-
-It should be the common denominator between all students. All the concepts we'll be talking about could equally be applied to React, Angular, Svelte, Vue 
-
-or even jQuery. The state management could be done in Redux, ngrx, or xstate. It's a universal language for all of us.
-
-This is a really simple project with simple requirements. If this project was made in a vacuum, there's a high chance I would do it this way. While tools 
-
-like React help make large projects more manageable, we don't need the weight here.
-
-It's a useful exercise to pull away from your tried-and-true tools to stretch your brain in interesting ways to make sure you're not overly reliant on 
-
-tools that come-and-go.
 
 
